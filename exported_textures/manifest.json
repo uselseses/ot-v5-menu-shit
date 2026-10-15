@@ -1,0 +1,12 @@
+{
+  "arrow_84x48": {
+    "compressed": 419,
+    "decoded": 16128,
+    "first16": "ffffff00ffffff00ffffff00ffffff00"
+  },
+  "menu_logo_320x200": {
+    "compressed": 29477,
+    "decoded": 256000,
+    "first16": "00000000000000000000000000000000"
+  }
+}

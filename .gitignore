@@ -1,0 +1,99 @@
+# =============================================================================
+# Build & Output Directories
+# =============================================================================
+build/
+bin/
+out/
+target/
+cmake-build-*/
+[Bb]in/
+[Oo]bj/
+
+# =============================================================================
+# CMake Generated Files (when building in-source)
+# =============================================================================
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# =============================================================================
+# Visual Studio / MSVC / MSBuild Artifacts
+# =============================================================================
+.vs/
+*.sln.docstates
+*.user
+*.suo
+*.userosscache
+*.sln.resources
+*.vcxproj.user
+*.vcxproj.filters.user
+*.vcxproj.nuget.dgspec.json
+*.nuget.props
+*.nuget.targets
+
+# Compiled binaries and intermediate object files
+*.obj
+*.o
+*.lib
+*.a
+*.exp
+*.dll
+*.so
+*.dylib
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.ipch
+*.iobj
+*.ipdb
+
+# MSBuild build state & log files
+*.tlog
+*.recipe
+*.lastbuildstate
+*.log
+*.depend
+*.bin
+*.manifest
+
+# Visual Studio profiling / diagnostic files
+*.vsp
+*.vspx
+*.sap
+*.opendb
+*.db
+*.db-shm
+*.db-wal
+
+# =============================================================================
+# IDE & Editor Settings
+# =============================================================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# =============================================================================
+# OS & Temporary Files
+# =============================================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.dmp
+*.dump
+*.stackdump
